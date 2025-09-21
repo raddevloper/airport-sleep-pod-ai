@@ -6,4 +6,7 @@ mediapipe==0.10.21
 pillow==10.3.0
 pytz==2024.1
 rich==14.1.0
+streamlit-webrtc==0.47.6
+av==10.0.0
+
 
