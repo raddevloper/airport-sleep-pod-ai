@@ -1,11 +1,9 @@
-streamlit==1.39.0
+streamlit==1.49.1
 pandas==2.2.2
 numpy==1.26.4
 opencv-python-headless==4.10.0.84
 mediapipe==0.10.21
 pillow==10.3.0
 pytz==2024.1
-protobuf<4
-absl-py>=1.4.0
-
+rich==14.1.0
 
