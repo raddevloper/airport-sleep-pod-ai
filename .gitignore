@@ -1,0 +1,29 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# IDE / editor settings
+.idea/
+.vscode/
+
+# Streamlit internal files
+.streamlit/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Data (do not commit user uploads or local DB)
+data/smartpod.db
+data/uploads/
+data/processed/
+
+# Logs
+*.log
