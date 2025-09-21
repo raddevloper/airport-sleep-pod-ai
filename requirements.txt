@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-opencv-python
-mediapipe
-pillow
-pytz
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.21
+pillow==10.3.0
+pytz==2024.1
